@@ -38,7 +38,7 @@
     {/if}
 
 <div class="main-wrapper">
-    <div class="text" transition:fly|global={{duration: 500, x: -50, easing: expoInOut}}>knox</div>
+    <div class="text" transition:fly|global={{duration: 500, x: -50, easing: expoInOut}}>jello</div>
         <div class="userinfo" transition:fly|global={{duration: 500, y: 50, easing: expoInOut}}>
             <object data={avatar} type="image/png" class="avatar" aria-label="avatar">
                 <img src="img/steve.png" alt=avatar class="avatar">
